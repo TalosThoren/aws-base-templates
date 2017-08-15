@@ -1,0 +1,17 @@
+# Vim generated files
+*~
+*.swp
+
+# Mac generated files
+.DS_Store
+
+# Windows generated files
+Thumbs.db
+$RECYCLE.BIN/
+*.lnk
+
+# MS Word backup files
+~$*
+
+# Testing directory
+_tmp/
